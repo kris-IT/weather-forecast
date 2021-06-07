@@ -16,7 +16,7 @@ key = 'ТВОЙ КЛЮЧ'
 ### Окно ввода запроса
 ![image](https://user-images.githubusercontent.com/69941258/120996702-3d710580-c78f-11eb-9b75-78966833c1f4.png)
 
-### Что использовалось?
+### Что использовать?
  Python3 с Tk GUI (tkinter). 
 tkinterПакет ( «Tk интерфейс») является стандартным интерфейсом Python для инструментария Tk GUI. 
 Оба Tk и tkinter доступны на большинстве платформ Unix, а также в системах Windows.
@@ -26,5 +26,6 @@ tkinterПакет ( «Tk интерфейс») является стандарт
 Код находится здесь:
 https://github.com/kris-IT/weather-forecast/blob/main/weather-forecast.py
 
-Название файла weather-forecast.py
+Если ссылка не работает: 
+ищи фаил под названием weather-forecast.py
 
